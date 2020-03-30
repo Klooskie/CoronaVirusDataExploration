@@ -39,11 +39,14 @@ def process_data(args):
                 recognized_tweets += 1
                 rows_list.append({"date": date, "place": location[0], "original place": location[1]})
     df = pd.DataFrame(rows_list)
-    df.to_csv(file_name)
+    if path.exists(file_name):
+        df.to_csv(file_name, mode='a', header=False)
+    else:
+        df.to_csv(file_name)
     print(df.head())
-    print(unable_to_recognize)
-    print(recognized_tweets)
-    print(recognized_tweets / (recognized_tweets + unable_to_recognize))
+    print('Count of tweets with unrecognizable date or location:', unable_to_recognize)
+    print('Count of properly processed tweets:', recognized_tweets)
+    print('Percentage of recognized tweets:', recognized_tweets / (recognized_tweets + unable_to_recognize))
 
 
 def get_date_from_row(row):
@@ -64,7 +67,7 @@ def get_location_from_row(row, county_dict):
         for key in county_dict.keys():
             if key in location.lower():
                 return county_dict[key], location
-        return None
+    return None
 
 
 def get_country_dict():
@@ -80,7 +83,7 @@ def get_country_dict():
                 country_dict[locale.territories[country.alpha_2].lower()] = country.name.lower()
             except:
                 pass
-        country_dict["USA".lower()] = "United States of America".lower()
+    country_dict["USA".lower()] = "United States of America".lower()
     return country_dict
 
 
