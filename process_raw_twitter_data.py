@@ -1,5 +1,6 @@
 import json
 import os
+import sys
 from os import path
 
 import pandas as pd
@@ -9,8 +10,14 @@ from babel import languages as ln
 from dateutil.parser import parse
 
 
-def process_data():
-    directory_path = "./data"
+def process_data(args):
+    if len(args) != 3:
+        print("2 arguments must be passed to the script:\n"
+              "1st - the directory path in which are twitter data stored;\n"
+              "2nd - the name of output file.\n")
+        return
+    directory_path = args[1]
+    file_name = args[2]
     country_dict = get_country_dict()
     unable_to_recognize = 0
     recognized_tweets = 0
@@ -32,7 +39,7 @@ def process_data():
                 recognized_tweets += 1
                 rows_list.append({"date": date, "place": location[0], "original place": location[1]})
     df = pd.DataFrame(rows_list)
-    df.to_csv("data.csv")
+    df.to_csv(file_name)
     print(df.head())
     print(unable_to_recognize)
     print(recognized_tweets)
@@ -78,4 +85,4 @@ def get_country_dict():
 
 
 if __name__ == '__main__':
-    process_data()
+    process_data(sys.argv)
