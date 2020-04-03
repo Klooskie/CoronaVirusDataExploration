@@ -83,7 +83,7 @@ def save_data(result_dict, location):
             rows_list.append({"country": country, "tweets": data[country]})
         df = pd.DataFrame(rows_list)
         if path.exists(file_path):
-            existing_df = pd.DataFrame.from_csv(file_path)
+            existing_df = pd.read_csv(file_path)
             df = pd.concat([df, existing_df]).groupby('country')['tweets'].sum().reset_index()
             df.to_csv(file_path)
         else:
