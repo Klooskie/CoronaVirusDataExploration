@@ -37,7 +37,7 @@ def process_data(args):
                     continue
                 add_to_result(result_dict, date, location)
                 recognized_tweets += 1
-            print('File', i + 1, '-', file, 'preprocessed successfully!')
+            print('File', i + 1, '-', file, 'processed successfully!')
 
     save_data(result_dict, result_file_location)
 
