@@ -1,250 +1,250 @@
 ,country,tweets
-0,aruba,41
-1,afghanistan,246
-2,angola,152
-3,anguilla,3
-4,åland islands,11
-5,albania,65
-6,andorra,134
-7,united arab emirates,1117
-8,argentina,34144
-9,armenia,87
-10,american samoa,7
-11,antarctica,211
-12,french southern territories,0
-13,antigua and barbuda,27
-14,australia,11363
-15,austria,1398
-16,azerbaijan,72
-17,burundi,22
-18,belgium,3147
-19,benin,142
-20,"bonaire, sint eustatius and saba",0
-21,burkina faso,51
-22,bangladesh,420
-23,bulgaria,126
-24,bahrain,247
-25,bahamas,169
-26,bosnia and herzegovina,28
-27,saint barthélemy,2
-28,belarus,53
-29,belize,53
-30,bermuda,114
-31,"bolivia, plurinational state of",822
-32,brazil,16072
-33,barbados,172
-34,brunei darussalam,264
-35,bhutan,13
-36,bouvet island,0
-37,botswana,145
-38,central african republic,8
-39,canada,10108
-40,cocos (keeling) islands,0
-41,switzerland,2409
-42,chile,7595
-43,china,1080
-44,côte d'ivoire,292
-45,cameroon,376
-46,"congo, the democratic republic of the",9
-47,congo,143
-48,cook islands,1
-49,colombia,11801
-50,comoros,14
-51,cabo verde,6
-52,costa rica,964
-53,cuba,973
-54,curaçao,24
-55,christmas island,6
-56,cayman islands,60
-57,cyprus,268
-58,czechia,214
-59,germany,8833
-60,djibouti,35
-61,dominica,925
-62,denmark,818
-63,dominican republic,32
-64,algeria,219
-65,ecuador,4642
-66,egypt,980
-67,eritrea,16
-68,western sahara,4
-69,spain,39622
-70,estonia,130
-71,ethiopia,169
-72,finland,866
-73,fiji,101
-74,falkland islands (malvinas),3
-75,france,34212
-76,faroe islands,2
-77,"micronesia, federated states of",8
-78,gabon,67
-79,united kingdom,10182
-80,georgia,2928
-81,guernsey,45
-82,ghana,2495
-83,gibraltar,57
-84,guinea,127
-85,guadeloupe,292
-86,gambia,39
-87,guinea-bissau,0
-88,equatorial guinea,0
-89,greece,785
-90,grenada,24
-91,greenland,43
-92,guatemala,1487
-93,french guiana,6
-94,guam,103
-95,guyana,36
-96,hong kong,2338
-97,heard island and mcdonald islands,0
-98,honduras,807
-99,croatia,123
-100,haiti,227
-101,hungary,200
-102,indonesia,11156
-103,isle of man,68
-104,india,39490
-105,british indian ocean territory,0
-106,ireland,5430
-107,"iran, islamic republic of",165
-108,iraq,218
-109,iceland,168
-110,israel,481
-111,italy,6602
-112,jamaica,989
-113,jersey,4255
-114,jordan,235
-115,japan,4974
-116,kazakhstan,42
-117,kenya,4693
-118,kyrgyzstan,40
-119,cambodia,98
-120,kiribati,17
-121,saint kitts and nevis,11
-122,"korea, republic of",851
-123,kuwait,577
-124,lao people's democratic republic,0
-125,lebanon,539
-126,liberia,19
-127,libya,89
-128,saint lucia,40
-129,liechtenstein,35
-130,sri lanka,852
-131,lesotho,31
-132,lithuania,45
-133,luxembourg,224
-134,latvia,167
-135,macao,28
-136,saint martin (french part),5
-137,morocco,402
-138,monaco,107
-139,"moldova, republic of",2
-140,madagascar,116
-141,maldives,1167
-142,mexico,20862
-143,marshall islands,4
-144,north macedonia,9
-145,mali,461
-146,malta,146
-147,myanmar,44
-148,montenegro,51
-149,mongolia,248
-150,northern mariana islands,14
-151,mozambique,89
-152,mauritania,28
-153,montserrat,20
-154,martinique,288
-155,mauritius,88
-156,malawi,127
-157,malaysia,10341
-158,mayotte,30
-159,namibia,649
-160,new caledonia,20
-161,niger,7386
+0,afghanistan,362
+1,albania,146
+2,algeria,447
+3,american samoa,10
+4,andorra,296
+5,angola,280
+6,anguilla,9
+7,antarctica,340
+8,antigua and barbuda,61
+9,argentina,66631
+10,armenia,174
+11,aruba,89
+12,australia,15086
+13,austria,2319
+14,azerbaijan,113
+15,bahamas,334
+16,bahrain,389
+17,bangladesh,636
+18,barbados,335
+19,belarus,91
+20,belgium,6486
+21,belize,103
+22,benin,239
+23,bermuda,216
+24,bhutan,18
+25,"bolivia, plurinational state of",1543
+26,"bonaire, sint eustatius and saba",0
+27,bosnia and herzegovina,56
+28,botswana,240
+29,bouvet island,0
+30,brazil,31538
+31,british indian ocean territory,0
+32,brunei darussalam,326
+33,bulgaria,215
+34,burkina faso,118
+35,burundi,58
+36,cabo verde,11
+37,cambodia,128
+38,cameroon,603
+39,canada,21792
+40,cayman islands,109
+41,central african republic,15
+42,chad,95
+43,chile,19110
+44,china,1647
+45,christmas island,9
+46,cocos (keeling) islands,0
+47,colombia,25888
+48,comoros,23
+49,congo,272
+50,"congo, the democratic republic of the",14
+51,cook islands,1
+52,costa rica,2036
+53,croatia,250
+54,cuba,1621
+55,curaçao,42
+56,cyprus,494
+57,czechia,380
+58,côte d'ivoire,529
+59,denmark,1379
+60,djibouti,62
+61,dominica,1929
+62,dominican republic,65
+63,ecuador,13660
+64,egypt,1903
+65,el salvador,5768
+66,equatorial guinea,0
+67,eritrea,21
+68,estonia,232
+69,eswatini,39
+70,ethiopia,271
+71,falkland islands (malvinas),5
+72,faroe islands,7
+73,fiji,164
+74,finland,1516
+75,france,72514
+76,french guiana,9
+77,french polynesia,9
+78,french southern territories,0
+79,gabon,87
+80,gambia,76
+81,georgia,5694
+82,germany,15724
+83,ghana,4131
+84,gibraltar,130
+85,greece,1410
+86,greenland,73
+87,grenada,46
+88,guadeloupe,686
+89,guam,168
+90,guatemala,3112
+91,guernsey,77
+92,guinea,256
+93,guinea-bissau,0
+94,guyana,69
+95,haiti,446
+96,heard island and mcdonald islands,0
+97,holy see (vatican city state),21
+98,honduras,1755
+99,hong kong,3348
+100,hungary,362
+101,iceland,310
+102,india,56239
+103,indonesia,15237
+104,"iran, islamic republic of",327
+105,iraq,381
+106,ireland,11564
+107,isle of man,141
+108,israel,959
+109,italy,12473
+110,jamaica,2033
+111,japan,6966
+112,jersey,8704
+113,jordan,458
+114,kazakhstan,58
+115,kenya,6662
+116,kiribati,40
+117,"korea, democratic people's republic of",2
+118,"korea, republic of",1110
+119,kuwait,999
+120,kyrgyzstan,47
+121,lao people's democratic republic,0
+122,latvia,299
+123,lebanon,1057
+124,lesotho,52
+125,liberia,46
+126,libya,210
+127,liechtenstein,64
+128,lithuania,87
+129,luxembourg,424
+130,macao,44
+131,madagascar,183
+132,malawi,184
+133,malaysia,13139
+134,maldives,1607
+135,mali,870
+136,malta,249
+137,marshall islands,5
+138,martinique,651
+139,mauritania,43
+140,mauritius,154
+141,mayotte,63
+142,mexico,40566
+143,"micronesia, federated states of",11
+144,"moldova, republic of",2
+145,monaco,220
+146,mongolia,342
+147,montenegro,86
+148,montserrat,45
+149,morocco,826
+150,mozambique,158
+151,myanmar,64
+152,namibia,870
+153,nauru,2
+154,nepal,535
+155,netherlands,7380
+156,new caledonia,27
+157,new zealand,2444
+158,nicaragua,1657
+159,niger,11602
+160,nigeria,186
+161,niue,11
 162,norfolk island,0
-163,nigeria,113
-164,nicaragua,831
-165,niue,5
-166,netherlands,3967
-167,norway,780
-168,nepal,402
-169,nauru,0
-170,new zealand,1631
-171,oman,625
-172,pakistan,5589
-173,panama,2307
-174,pitcairn,2
-175,peru,5131
-176,philippines,6482
-177,palau,51
-178,papua new guinea,0
-179,poland,1400
-180,puerto rico,2872
-181,"korea, democratic people's republic of",2
-182,portugal,3224
-183,paraguay,3182
-184,"palestine, state of",0
-185,french polynesia,8
-186,qatar,511
-187,réunion,167
-188,romania,156
-189,russian federation,424
-190,rwanda,488
-191,saudi arabia,944
-192,sudan,195
-193,senegal,576
-194,singapore,2232
-195,south georgia and the south sandwich islands,0
-196,"saint helena, ascension and tristan da cunha",18
-197,svalbard and jan mayen,1
-198,solomon islands,5
-199,sierra leone,42
-200,el salvador,2563
-201,san marino,20
-202,somalia,2
-203,saint pierre and miquelon,2
-204,serbia,313
-205,south sudan,0
-206,sao tome and principe,0
-207,suriname,25
-208,slovakia,92
-209,slovenia,173
-210,sweden,1523
-211,eswatini,28
-212,sint maarten (dutch part),1
-213,seychelles,19
-214,syrian arab republic,9
-215,turks and caicos islands,13
-216,chad,51
-217,togo,28
-218,thailand,12880
-219,tajikistan,0
-220,tokelau,0
-221,turkmenistan,2
-222,timor-leste,4
-223,tonga,30
-224,trinidad and tobago,316
-225,tunisia,170
-226,turkey,4047
-227,tuvalu,8
-228,"taiwan, province of china",101
-229,"tanzania, united republic of",533
-230,uganda,904
-231,ukraine,257
-232,united states minor outlying islands,13
-233,uruguay,5377
-234,united states,99384
-235,uzbekistan,24
-236,holy see (vatican city state),17
-237,saint vincent and the grenadines,1
-238,"venezuela, bolivarian republic of",19375
-239,"virgin islands, british",15
-240,"virgin islands, u.s.",11
-241,viet nam,143
-242,vanuatu,14
+163,north macedonia,20
+164,northern mariana islands,17
+165,norway,1390
+166,oman,1129
+167,pakistan,8466
+168,palau,90
+169,"palestine, state of",0
+170,panama,5115
+171,papua new guinea,0
+172,paraguay,8196
+173,peru,10901
+174,philippines,8257
+175,pitcairn,6
+176,poland,2649
+177,portugal,7409
+178,puerto rico,5489
+179,qatar,843
+180,romania,253
+181,russian federation,699
+182,rwanda,919
+183,réunion,275
+184,saint barthélemy,4
+185,"saint helena, ascension and tristan da cunha",37
+186,saint kitts and nevis,17
+187,saint lucia,79
+188,saint martin (french part),15
+189,saint pierre and miquelon,5
+190,saint vincent and the grenadines,5
+191,samoa,26
+192,san marino,37
+193,sao tome and principe,0
+194,saudi arabia,1919
+195,senegal,1527
+196,serbia,599
+197,seychelles,33
+198,sierra leone,69
+199,singapore,2982
+200,sint maarten (dutch part),6
+201,slovakia,158
+202,slovenia,369
+203,solomon islands,6
+204,somalia,3
+205,south africa,9825
+206,south georgia and the south sandwich islands,0
+207,south sudan,0
+208,spain,80391
+209,sri lanka,1291
+210,sudan,340
+211,suriname,47
+212,svalbard and jan mayen,1
+213,sweden,2619
+214,switzerland,4387
+215,syrian arab republic,29
+216,"taiwan, province of china",134
+217,tajikistan,3
+218,"tanzania, united republic of",771
+219,thailand,16292
+220,timor-leste,6
+221,togo,68
+222,tokelau,0
+223,tonga,41
+224,trinidad and tobago,727
+225,tunisia,333
+226,turkey,7001
+227,turkmenistan,5
+228,turks and caicos islands,23
+229,tuvalu,10
+230,uganda,1343
+231,ukraine,483
+232,united arab emirates,1691
+233,united kingdom,19569
+234,united states,198993
+235,united states minor outlying islands,27
+236,uruguay,11075
+237,uzbekistan,31
+238,vanuatu,22
+239,"venezuela, bolivarian republic of",38484
+240,viet nam,186
+241,"virgin islands, british",26
+242,"virgin islands, u.s.",15
 243,wallis and futuna,0
-244,samoa,16
-245,yemen,85
-246,south africa,6297
-247,zambia,200
-248,zimbabwe,321
+244,western sahara,9
+245,yemen,192
+246,zambia,305
+247,zimbabwe,571
+248,åland islands,18
